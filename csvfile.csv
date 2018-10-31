@@ -1,2 +1,6 @@
 this is a csv file!
+<<<<<<< HEAD
 i made this change on the feature1
+=======
+i made this change on the csv file!
+>>>>>>> 646f1e1af60348f093036decfe046a6f86998476
